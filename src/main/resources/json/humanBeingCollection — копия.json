@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2",
+    "name": "Скриптонит",
+    "coordinates": {
+      "x": "456",
+      "y": "789"
+    },
+    "creationDate": {
+      "year": "2002",
+      "month": "09",
+      "day": "12"
+    },
+    "realHero": "false",
+    "hasToothpick": "false",
+    "impactSpeed": "-100",
+    "weaponType": "AXE",
+    "mood": "SADNESS",
+    "car": {
+      "cool": "true"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Face",
+    "coordinates": {
+      "x": "0",
+      "y": "34"
+    },
+    "creationDate": {
+      "year": "1974",
+      "month": "01",
+      "day": "08"
+    },
+    "realHero": "false",
+    "hasToothpick": "true",
+    "impactSpeed": "15",
+    "weaponType": "SHOTGUN",
+    "mood": "RAGE",
+    "car": {
+      "cool": "false"
+    }
+  },
+  {
+    "id": "1",
+    "name": "Моргенштерн",
+    "coordinates": {
+      "x": "0",
+      "y": "34"
+    },
+    "creationDate": {
+      "year": "1997",
+      "month": "10",
+      "day": "02"
+    },
+    "realHero": "true",
+    "hasToothpick": "true",
+    "impactSpeed": "100",
+    "weaponType": "RIFLE",
+    "mood": "RAGE",
+    "car": {
+      "cool": "true"
+    }
+  }
+]
